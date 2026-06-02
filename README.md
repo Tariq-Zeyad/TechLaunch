@@ -59,17 +59,12 @@ This project is ideal for developers, designers, and product teams who need a li
 3. Test your changes in a browser and verify responsive behavior.
 4. Submit a pull request with a clear description of what was changed.
 
-If you are adding new sections or styles, keep the design clean and consistent with the existing theme.
 
-## License Information
-
-This project is released under the MIT License.
 
 ## Contact Information
 
 For support, questions, or collaboration inquiries, please reach out to the project maintainer.
 
-- Email: `maintainer@example.com`
-- GitHub: `https://github.com/your-username`
+- Email: `tariqkhashan0@gmail.com`
+- GitHub: `https://github.com/Tariq-Zeyad`
 
-> Feel free to update the contact details with your real email or GitHub profile.
